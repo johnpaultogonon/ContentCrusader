@@ -1,44 +1,25 @@
-# ContentCrusader
+Free Download Source Code "Content_Crusader"
 
-How to Use Content Crusader
+FIRST Download
 
-Getting Started
-Visit the Website: Go to the Content Crusader website.
-Sign Up: Create an account to access personalized and premium content.
-Explore: Browse through articles, tutorials, and expert insights.
-Key Features
-Content Creation:
+1.XAMPP
 
-Read guides on creating blog posts, videos, infographics, and social media updates.
-Use templates and tools provided.
-Marketing Trends:
+2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-Stay updated with the latest marketing trends through articles and updates.
-Join webinars and workshops.
-Content Strategy:
+3"Content_Crusader"
 
-Access guides on planning and managing your content.
-Learn from successful case studies.
-Social Media Management:
+4. Download the zip file/ download winrar
 
-Find guides on using Facebook, Twitter, Instagram, and LinkedIn.
-Use scheduling tools for posts.
-SEO:
+5. Extract the file and copy "Content_Crusader" folder
 
-Learn SEO basics and advanced techniques to improve your content’s visibility.
-Branding:
+6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
-Get tips on creating a unique brand identity.
-Develop a consistent voice and tone.
-Interactive Features
-Community Forums: Discuss topics, ask questions, and share experiences.
-Feedback: Get feedback on your content and review resources.
-Q&A Sessions: Join live sessions with experts for personalized advice.
-Additional Resources
-Newsletters: Subscribe for updates and exclusive content.
-E-books and Whitepapers: Download detailed guides on content creation and marketing.
-Tips for Success
-Stay Consistent: Regularly visit the site for updates and improvement.
-Engage: Participate in the community to learn and share insights.
-Apply Knowledge: Implement the strategies and tips you learn.
-Using these steps and resources, you can master content creation and achieve your goals in the digital landscape.
+7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+8. Create a database with name crusadersignup
+
+6. Import crusadersignup.sql file(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/Content_Crusader
+
+
